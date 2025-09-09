@@ -1,0 +1,25 @@
+{
+  "name": "regex-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "dotenv": "^17.2.2"
+  },
+  "devDependencies": {
+    "jest": "^30.1.3",
+    "nodemon": "^3.1.10"
+  }
+}
