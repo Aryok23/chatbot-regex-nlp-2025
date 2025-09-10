@@ -62,4 +62,24 @@ Buat file ```.env``` di root project berdasarkan ```.env.example```
 ---
 
 ## 📸 Demo
+![Sapaan Umum](demo/sapaan_umum.png)
 
+![Definisi Saham](demo/definisi_saham.png)
+
+![Manfaat Investasi](demo/manfaat_investasi.png)
+
+![Keuntungan Saham](demo/benefit_saham.png)
+
+![Syarat Investasi](demo/syarat_investasi.png)
+
+![Cara Investasi](demo/cara_investasi.png)
+
+![Rekomendasi Sekuritas](demo/rekomendasi_platform.png)
+
+![Strategi Investasi](demo/strategi_investasi.png)
+
+![Deteksi Emosi](demo/negatif_sentimen.png)
+
+![Pertanyaan Umum Fallback](demo/pertanyaanumum_fallback.png)
+
+![Fallback](demo/fallback.png)
