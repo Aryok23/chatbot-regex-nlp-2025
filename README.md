@@ -1,7 +1,6 @@
 # 🤖 Regexonomics
 
-Chatbot sederhana berbasis **Node.js** dengan dukungan **Regex NLP** yang diintegrasikan ke **Discord**, serta logging menggunakan **Winston**.  
-Cocok untuk pembelajaran chatbot rule-based dengan pola tanya-jawab terkait investasi dan berbagai instrumennya yang mudah dikembangkan.
+Chatbot sederhana berbasis **Node.js** dengan dukungan **Regex NLP** yang diintegrasikan ke **Discord**, serta logging menggunakan **Winston**. Projek ini dibuat untuk pembelajaran chatbot rule-based dengan pola tanya-jawab terkait investasi dan berbagai instrumennya yang mudah dikembangkan.
 
 ---
 
@@ -63,3 +62,4 @@ Buat file ```.env``` di root project berdasarkan ```.env.example```
 ---
 
 ## 📸 Demo
+
